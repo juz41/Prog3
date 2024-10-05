@@ -1,0 +1,11 @@
+/home/julian/Documents/coding/C#/myClassLibrary/bin/Release/net8.0/myClassLibrary.deps.json
+/home/julian/Documents/coding/C#/myClassLibrary/bin/Release/net8.0/myClassLibrary.dll
+/home/julian/Documents/coding/C#/myClassLibrary/bin/Release/net8.0/myClassLibrary.pdb
+/home/julian/Documents/coding/C#/myClassLibrary/obj/Release/net8.0/myClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/julian/Documents/coding/C#/myClassLibrary/obj/Release/net8.0/myClassLibrary.AssemblyInfoInputs.cache
+/home/julian/Documents/coding/C#/myClassLibrary/obj/Release/net8.0/myClassLibrary.AssemblyInfo.cs
+/home/julian/Documents/coding/C#/myClassLibrary/obj/Release/net8.0/myClassLibrary.csproj.CoreCompileInputs.cache
+/home/julian/Documents/coding/C#/myClassLibrary/obj/Release/net8.0/myClassLibrary.dll
+/home/julian/Documents/coding/C#/myClassLibrary/obj/Release/net8.0/refint/myClassLibrary.dll
+/home/julian/Documents/coding/C#/myClassLibrary/obj/Release/net8.0/myClassLibrary.pdb
+/home/julian/Documents/coding/C#/myClassLibrary/obj/Release/net8.0/ref/myClassLibrary.dll
